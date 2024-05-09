@@ -1,3 +1,5 @@
 # SpamCommentDetection
 We often see in applications like YouTube where people watch a lot of videos for so many purposes it can be for entertainment or learning and it provides a way for users to interact with the creators through the comment section. There exists a way where people post scam comments which are quite harmful. These comments can be dangerous and they can include links to other pages which can hack any information or data or steal any confidential details when a link is composed on that comment, in some cases it can also redirect to the page where it attracts people to earn money while playing a game and it is a scam and most people have lost their money by clicking on such type of links displayed via comment or messages.
 Spam detection aims to determine the legitimacy of internet comments, distinguishing between spam and authentic content.
+![image](https://github.com/saisasidhar2911/SpamCommentDetection/assets/114818452/a83423d8-bff0-46e6-b714-222f16aef7c1)
+![image](https://github.com/saisasidhar2911/SpamCommentDetection/assets/114818452/28bc0acf-0de0-4c64-899b-3c3dc162c642)
